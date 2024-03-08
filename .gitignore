@@ -1,0 +1,11 @@
+.DS_Store
+
+# Maven #
+target/
+
+# IDEA #
+.idea/
+**/.idea/*
+*.iml
+.target
+**/target/*
