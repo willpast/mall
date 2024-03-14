@@ -4,6 +4,7 @@
 
 ### 商品管理
 
+<<<<<<< HEAD
 ![功能结构图-商品.jpg](../resource/mind_product.jpg)
 
 ### 订单管理
